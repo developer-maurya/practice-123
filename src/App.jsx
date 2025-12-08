@@ -1,12 +1,15 @@
 import BoxMo from "./component/boxMo"
 
+
  
 
 function App() {
 
   return (
     <>
-    <div> <p>hello l am developer</p></div>
+    <div className="box-head"> <p>hello l am developer</p></div>
+     <BoxMo/>
+     <BoxMo/>
      <BoxMo/>
     </>
   )

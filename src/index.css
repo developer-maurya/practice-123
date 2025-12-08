@@ -6,9 +6,10 @@
 
 }
 body{
-  color: brown;
-  display: flex;
-  height: 100vh;
+  /* color: brown; */
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
+  background-color: rgb(55, 55, 67);
+  color: aqua;
 }
